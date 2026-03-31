@@ -29,7 +29,7 @@
   "work" : "UnEmployed",
   "Level" : 0.6,
   "Former Employer" : "Betechnos Private Limited"
-  "Networth" : "$0"
+  "Networth" : "$1275"
 }
 ```
 
